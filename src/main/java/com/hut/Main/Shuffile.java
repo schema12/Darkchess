@@ -6,9 +6,7 @@ import java.io.File;
 import java.util.Arrays;
 import java.util.Random;
 
-/**
- * Created by 燃烧杯 on 2018/5/12.
- */
+
 public class Shuffile {
 
     private static Random rand = new Random();
